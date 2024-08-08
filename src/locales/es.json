@@ -1,0 +1,6 @@
+{
+  "title": "Prueba de internacionalizacion con React",
+  "welcome": "Esto es un simple ejemplo de como se pude realizar la internacionalización de texto.",
+  "button": "traducir"
+
+}
